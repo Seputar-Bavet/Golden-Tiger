@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Sitemap: https://seputar-bavet.github.io/Golden-Tiger/sitemap.xml
